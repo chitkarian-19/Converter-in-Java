@@ -19,7 +19,7 @@ Here i am telling how to make the table and
 	You need to make the table for every quantity except number and temperature. Here i am giving the tables for your ease
 	
 	1:Table name:Mass
-	            Mass       | Value        |
+	        Mass       | Value        |
                ------------+--------------+
                 Kilogram   |            1 |
                 grams      |        0.001 |
@@ -30,7 +30,7 @@ Here i am telling how to make the table and
                 carat      |       0.0002 |
                ------------+--------------+
 	2:Table name:Angle
-	            +---------------+--------------------+
+	        +---------------+--------------------+
                 | Angle         | Value              |
                 +---------------+--------------------+
                 | Gradian       |                0.9 |
@@ -42,7 +42,7 @@ Here i am telling how to make the table and
                 +---------------+--------------------+
 	
 	3.Table name:Area
-	            +-------------------+---------+
+	        +-------------------+---------+
                 | Area              | Value   |
                 +-------------------+---------+
                 | Square Kilo meter | 1000000 |
@@ -54,7 +54,7 @@ Here i am telling how to make the table and
 				 
 	4.Table Name:Energy
 	            
-				 +--------------+-----------+
+	         +--------------+-----------+
                  | Energy       | Value     |
                  +--------------+-----------+
                  | Kilojoule    |      1000 |
@@ -68,7 +68,7 @@ Here i am telling how to make the table and
 				 
 	5.Table Name:Length
 	            
-				 +---------------+----------+
+		 +---------------+----------+
                  | LENGTH        | VALUE    |
                  +---------------+----------+
                  | Micrometre    | 0.000001 |
@@ -88,18 +88,18 @@ Here i am telling how to make the table and
 				 
 	6.Table name:Pressure
 	              
-				  +------------+--------+
+		  +------------+--------+
                   | Pressure   | Value  |
                   +------------+--------+
                   | Pascal     |      1 |
                   | Atmosphere | 101325 |
                   | Torr       | 133.32 |
                   | Bar        | 100000 |
-				  +------------+--------+
+		  +------------+--------+
 				  
 	7.Table name: Speed
 	               
-				   +-------+----------------+
+		   +-------+----------------+
                    | Speed | VALUE          |
                    +-------+----------------+
                    | mph   |        0.44704 |
@@ -110,7 +110,7 @@ Here i am telling how to make the table and
                    +-------+----------------+
 				   
 	8.Table Name: Time
-	               +-------------+------------------+
+	           +-------------+------------------+
                    | Time        | Value            |
                    +-------------+------------------+
                    | second      |                1 |
@@ -129,7 +129,7 @@ Here i am telling how to make the table and
 				   
 	9.Table Name: volume
 	               
-				   +-------------+---------+
+		   +-------------+---------+
                    | Volume      | Value   |
                    +-------------+---------+
                    | Litre       |       1 |
