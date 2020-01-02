@@ -95,7 +95,7 @@ Here i am telling how to make the table and
                   | Atmosphere | 101325 |
                   | Torr       | 133.32 |
                   | Bar        | 100000 |
-		  +------------+--------+
+		      +------------+--------+
 				  
 	7.Table name: Speed
 	               
