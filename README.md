@@ -19,7 +19,7 @@ Here i am telling how to make the table and
 	You need to make the table for every quantity except number and temperature. Here i am giving the tables for your ease
 	
 	1:Table name:Mass
-	        Mass       | Value        |
+	           Mass       | Value        |
                ------------+--------------+
                 Kilogram   |            1 |
                 grams      |        0.001 |
@@ -30,7 +30,7 @@ Here i am telling how to make the table and
                 carat      |       0.0002 |
                ------------+--------------+
 	2:Table name:Angle
-	        +---------------+--------------------+
+	           +---------------+--------------------+
                 | Angle         | Value              |
                 +---------------+--------------------+
                 | Gradian       |                0.9 |
